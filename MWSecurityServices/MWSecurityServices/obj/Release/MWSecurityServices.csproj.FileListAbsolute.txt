@@ -1,0 +1,11 @@
+C:\Users\Michael\documents\visual studio 2017\Projects\MWSecurityServices\MWSecurityServices\bin\Release\MWSecurityServices.exe.config
+C:\Users\Michael\documents\visual studio 2017\Projects\MWSecurityServices\MWSecurityServices\bin\Release\MWSecurityServices.exe
+C:\Users\Michael\documents\visual studio 2017\Projects\MWSecurityServices\MWSecurityServices\bin\Release\MWSecurityServices.pdb
+C:\Users\Michael\documents\visual studio 2017\Projects\MWSecurityServices\MWSecurityServices\obj\Release\MWSecurityServices.Properties.Resources.resources
+C:\Users\Michael\documents\visual studio 2017\Projects\MWSecurityServices\MWSecurityServices\obj\Release\MWSecurityServices.csproj.GenerateResource.cache
+C:\Users\Michael\documents\visual studio 2017\Projects\MWSecurityServices\MWSecurityServices\obj\Release\MWSecurityServices.csproj.CoreCompileInputs.cache
+C:\Users\Michael\documents\visual studio 2017\Projects\MWSecurityServices\MWSecurityServices\obj\Release\MWSecurityServices.exe
+C:\Users\Michael\documents\visual studio 2017\Projects\MWSecurityServices\MWSecurityServices\obj\Release\MWSecurityServices.pdb
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\MWSecurityServices\MWSecurityServices\obj\Release\MWSecurityServices.csprojResolveAssemblyReference.cache
+C:\Users\Michael\documents\visual studio 2017\Projects\MWSecurityServices\MWSecurityServices\obj\Release\MWSecurityServices.Main.resources
+C:\Users\Michael\documents\visual studio 2017\Projects\MWSecurityServices\MWSecurityServices\obj\Release\MWSecurityServices.GUIVeiwer.resources
